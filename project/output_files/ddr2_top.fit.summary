@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Oct 05 22:29:13 2014
+Quartus II 64-Bit Version : 14.0.1 Build 205 08/13/2014 SJ Full Version
+Revision Name : ddr2_top
+Top-level Entity Name : ddr2_top
+Family : Cyclone IV E
+Device : EP4CE30F23C6
+Timing Models : Final
+Total logic elements : 6,067 / 28,848 ( 21 % )
+    Total combinational functions : 5,161 / 28,848 ( 18 % )
+    Dedicated logic registers : 3,540 / 28,848 ( 12 % )
+Total registers : 3708
+Total pins : 67 / 329 ( 20 % )
+Total virtual pins : 0
+Total memory bits : 19,936 / 608,256 ( 3 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

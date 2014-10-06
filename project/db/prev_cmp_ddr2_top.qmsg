@@ -1,0 +1,2 @@
+{ "Error" "ECPT_LICENSE_HOSTID_MISMATCH" "" "Specified license is not valid for this machine." {  } {  } 0 292028 "Specified license is not valid for this machine." 0 0 "Quartus II" 0 -1 1412519143987 ""}
+{ "Error" "EFLOW_ERROR_COUNT" "Full Compilation 1  0 s " "Quartus II Full Compilation was unsuccessful. 1 error, 0 warnings" {  } {  } 0 293001 "Quartus II %1!s! was unsuccessful. %2!d! error%3!s!, %4!d! warning%5!s!" 0 0 "Quartus II" 0 -1 1412519145378 ""}

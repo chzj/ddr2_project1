@@ -1,0 +1,1496 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 0.898
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 0.937
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 0.991
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 1.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.174
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.213
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.649
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.737
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 2.089
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 2.128
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.186
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.784
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 7.106
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'local_clk_50m'
+Slack : 16.125
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.305
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'local_clk_50m'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 0.831
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 0.868
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 0.872
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 0.909
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.094
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.131
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 1.157
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 1.222
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.793
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.421
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.775
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.903
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 6.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 7.254
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.895
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.896
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.221
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.238
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.742
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.013
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_mem_clk_mimic_launch_clock'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.826
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_19'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_20'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_21'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_22'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_23'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_24'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_26'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_28'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_34'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_35'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_36'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_51'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_57'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_58'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_59'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_61'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_63'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_64'
+Slack : 2.257
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_25'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_27'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_29'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_30'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_31'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_32'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_33'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_52'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_53'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_54'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_55'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_56'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_60'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_62'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 2.260
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 2.260
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_10'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_11'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_16'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_17'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_18'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_3'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_37'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_38'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_42'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_44'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_5'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_7'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_8'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_9'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_1'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_12'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_13'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_14'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_15'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_2'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_39'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_4'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_40'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_41'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_43'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_45'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_46'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_47'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_48'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_49'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_50'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_6'
+Slack : 2.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.734
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 8.968
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'local_clk_50m'
+Slack : 9.644
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 0.913
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 0.956
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 1.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 1.081
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.188
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.231
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.836
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.859
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 2.228
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 2.598
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.925
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 3.017
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 7.426
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'local_clk_50m'
+Slack : 16.541
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'local_clk_50m'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 0.776
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 0.817
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 0.885
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 0.926
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 1.092
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.110
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.151
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 1.198
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.995
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.091
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 6.751
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 7.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.807
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.808
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 1.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.136
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.600
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 1.850
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_mem_clk_mimic_launch_clock'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 1.826
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.246
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.246
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_19'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_20'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_21'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_22'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_23'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_24'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_26'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_28'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_32'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_33'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_34'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_35'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_51'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_52'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_53'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_54'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_58'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_59'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_61'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_63'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_64'
+Slack : 2.250
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_25'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_27'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_29'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_30'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_31'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_36'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_55'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_56'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_57'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_60'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_62'
+Slack : 2.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 2.260
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 2.260
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_1'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_10'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_12'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_13'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_15'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_17'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_2'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_4'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_40'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_41'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_43'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_45'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_46'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_47'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_48'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_49'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_50'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_6'
+Slack : 2.291
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_11'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_14'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_16'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_18'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_3'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_37'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_38'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_39'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_42'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_44'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_5'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_7'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_8'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_9'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.742
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 8.989
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'local_clk_50m'
+Slack : 9.631
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 1.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 1.029
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.257
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.279
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 1.492
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 1.526
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.052
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 2.481
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.486
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 2.503
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.496
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 3.751
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.126
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 8.340
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'local_clk_50m'
+Slack : 17.788
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.129
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'local_clk_50m'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 0.708
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 0.716
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 0.729
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 0.772
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 0.951
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 0.972
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.222
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.918
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 3.443
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 3.677
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 3.759
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 7.840
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 8.402
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.489
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 0.490
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.656
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.662
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.963
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 1.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_n_mem_clk_n_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_fall'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_ac_rise'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDQSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ck_p_mem_clk_tDSS'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_mem_clk_mimic_launch_clock'
+Slack : 1.667
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 2.249
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_41'
+Slack : 2.270
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_42'
+Slack : 2.270
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_1'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_10'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_11'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_12'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_13'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_14'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_15'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_16'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_17'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_18'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_2'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_3'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_37'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_38'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_39'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_4'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_40'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_43'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_44'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_45'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_46'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_5'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_6'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_7'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_8'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_9'
+Slack : 2.271
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_47'
+Slack : 2.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_48'
+Slack : 2.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_49'
+Slack : 2.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_50'
+Slack : 2.272
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_capture'
+Slack : 2.278
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_ddr_mimic'
+Slack : 2.278
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 2.281
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 2.282
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_19'
+Slack : 2.284
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_20'
+Slack : 2.284
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_21'
+Slack : 2.284
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_22'
+Slack : 2.284
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_23'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_24'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_25'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_26'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_27'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_28'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_29'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_30'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_31'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_32'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_33'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_34'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_35'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_36'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_51'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_52'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_53'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_54'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_55'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_56'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_57'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_58'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_61'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_62'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_63'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_64'
+Slack : 2.285
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_59'
+Slack : 2.286
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_dq_60'
+Slack : 2.286
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.750
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ddr_m0|ddr2_controller_phy_inst|ddr2_phy_inst|ddr2_phy_alt_mem_phy_inst|clk|scan_clk|q_clock'
+Slack : 8.956
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'local_clk_50m'
+Slack : 9.467
+TNS   : 0.000
+
+------------------------------------------------------------
+Info: see the "DDR report" for DDR timing results
+------------------------------------------------------------
+------------------------------------------------------------
